@@ -2,7 +2,7 @@
 
 👀 I’m interested in programming, chess and bike riding
 
-🌱 I’m currently learning C# ASP.NET Core
+🌱 I’m currently learning React.js
 
 📫 How to reach me: 
 - email: dakataebg@students.softuni.bg 
