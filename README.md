@@ -6,4 +6,4 @@
 
 📫 How to reach me: 
 - email: dakataebg@students.softuni.bg 
-- linkedIn: https://www.linkedin.com/in/daniel-yordanov-a63ab1208/
+- linkedIn: https://www.linkedin.com/in/daniel-yordanov-bg/
