@@ -5,5 +5,5 @@
 🌱 I’m currently learning React.js
 
 📫 How to reach me: 
-- email: dakataebg@students.softuni.bg 
-- linkedIn: https://www.linkedin.com/in/daniel-yordanov-bg/
+- email: DanielYordanov04@outlook.com
+- linkedIn: [linkedin.com/in/daniel-yordanov-bg](https://www.linkedin.com/in/daniel-yordanov-bg/)
