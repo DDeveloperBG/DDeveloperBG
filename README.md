@@ -2,7 +2,7 @@
 
 👀 I’m interested in programming, chess and bike riding
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning Data Science⚗️🧪
 
 📫 How to reach me: 
 - email: DanielYordanov04@outlook.com
