@@ -2,7 +2,7 @@
 
 👀 I’m interested in programming, chess and bike riding
 
-🌱 I’m currently learning Deep Learning⚗️🧪
+🌱 I’m currently learning Angular⚗️🧪
 
 📫 How to reach me: 
 - email: DanielYordanov04@outlook.com
